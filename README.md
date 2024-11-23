@@ -39,9 +39,10 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![1](https://github.com/user-attachments/assets/78ec5de9-4f49-4a5e-b5b2-c6da095dc032)
-![2](https://github.com/user-attachments/assets/11d1628f-aab9-4542-a24f-e79d5107f664)
-![3](https://github.com/user-attachments/assets/6154ed9c-0628-46b6-b6a3-2e79bb40793a)
+![WhatsApp Image 2024-11-23 at 10 46 19_af898bfa](https://github.com/user-attachments/assets/2067b170-15db-4517-bd9e-d62a88917bf2)
+![WhatsApp Image 2024-11-23 at 10 46 19_ca4e162d](https://github.com/user-attachments/assets/f420e348-1c26-4f7e-951b-db32b628458c)
+![WhatsApp Image 2024-11-23 at 10 46 19_fad1f5ce](https://github.com/user-attachments/assets/c7a0a91d-b063-45a3-8f9b-b6a159e60870)
+
 ![275325977-3838ed2b-bacb-4e32-b717-5ee14d43db62](https://github.com/user-attachments/assets/48a291a7-c1de-49f0-94ca-7e2bbb53b8a8)
 
 
